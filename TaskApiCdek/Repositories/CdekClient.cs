@@ -76,7 +76,7 @@ namespace TaskApiCdek.Repositories
                 DateExecute = DateTime.Now.ToString("yyyy-MM-dd"),
                 SenderCityId = FromCode,
                 ReceiverCityId = ToCode,
-                TariffId = "5",
+                TariffId = "121",
                 Packages =
                 {
                     new PackageSize
